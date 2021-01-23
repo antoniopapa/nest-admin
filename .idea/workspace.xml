@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e8cb3c4-41b3-4404-b199-5de7bfe9870b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1m3RsQwZe067uIzkQz6Rzl6pqiV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/product/models" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/permission" />
+      <recent name="$PROJECT_DIR$/src/role" />
+      <recent name="$PROJECT_DIR$/src/product" />
+      <recent name="$PROJECT_DIR$/src/common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/product/models" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8cb3c4-41b3-4404-b199-5de7bfe9870b" name="Default Changelist" comment="" />
+      <created>1608720493436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608720493436</updated>
+      <workItem from="1608720494479" duration="10303000" />
+      <workItem from="1608741590777" duration="2437000" />
+      <workItem from="1608809529607" duration="5082000" />
+      <workItem from="1609066211917" duration="7744000" />
+      <workItem from="1609166673304" duration="11143000" />
+      <workItem from="1609238420244" duration="3976000" />
+      <workItem from="1609327970240" duration="6000" />
+      <workItem from="1609330902311" duration="758000" />
+      <workItem from="1610631481058" duration="986000" />
+      <workItem from="1610707376180" duration="1548000" />
+      <workItem from="1610983186740" duration="1178000" />
+      <workItem from="1611049362887" duration="147000" />
+      <workItem from="1611071737067" duration="1585000" />
+      <workItem from="1611141762381" duration="4000" />
+      <workItem from="1611163168837" duration="604000" />
+      <workItem from="1611228166978" duration="394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1608729529005">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="678" y="333" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1608729529005" />
+    <state x="685" y="445" key="#com.intellij.fileTypes.FileTypeChooser.inPresentationMode" timestamp="1608735005376">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="685" y="445" key="#com.intellij.fileTypes.FileTypeChooser.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1608735005376" />
+    <state x="859" y="109" key="#com.intellij.ide.util.MemberChooser.inPresentationMode" timestamp="1609193844841">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="859" y="109" key="#com.intellij.ide.util.MemberChooser.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609193844841" />
+    <state width="1817" height="501" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1609181348784">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1817" height="501" key="GridCell.Tab.0.bottom.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609181348784" />
+    <state width="1817" height="501" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1609181348783">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1817" height="501" key="GridCell.Tab.0.center.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609181348783" />
+    <state width="1817" height="501" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1609181348782">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1817" height="501" key="GridCell.Tab.0.left.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609181348782" />
+    <state width="1817" height="501" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1609181348783">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1817" height="501" key="GridCell.Tab.0.right.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609181348783" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1611074570619">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="818" height="650" key="SwitcherDM.inPresentationMode" timestamp="1609243090159">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="818" height="650" key="SwitcherDM.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609243090159" />
+    <state width="500" height="445" key="SwitcherDM/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1611074570619" />
+    <state x="1070" y="520" width="695" height="450" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1.inPresentationMode" timestamp="1609099808493">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1070" y="520" width="695" height="450" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609099808493" />
+    <state x="1070" y="520" width="684" height="399" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog.inPresentationMode" timestamp="1609099786469">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1070" y="520" width="684" height="399" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609099786469" />
+    <state x="630" y="195" width="1300" height="1050" key="find.popup.inPresentationMode" timestamp="1608733551958">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="630" y="195" width="1300" height="1050" key="find.popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1608733551958" />
+    <state x="998" y="438" width="563" height="627" key="jetbrains.javascript.buildTools.run-task-popup.inPresentationMode" timestamp="1609240159648">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="998" y="438" width="563" height="627" key="jetbrains.javascript.buildTools.run-task-popup.inPresentationMode/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1609240159648" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1610983217671">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1920.240.1920.1200/0.0.2560.1440@0.0.2560.1440" timestamp="1610983217671" />
+  </component>
+</project>
