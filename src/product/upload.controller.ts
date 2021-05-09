@@ -1,4 +1,4 @@
-import {Controller, Get, Param, Post, Res, UploadedFile, UseInterceptors} from '@nestjs/common';
+import {Controller, Get, Param, Post, Res, UploadedFile, UseInterceptors, BadRequestException} from '@nestjs/common';
 import {FileInterceptor} from "@nestjs/platform-express";
 import {diskStorage} from 'multer';
 import {extname} from 'path';
@@ -19,9 +19,12 @@ export class UploadController {
     }))
     uploadFile(@UploadedFile() file) {
         console.log(file);
-        return {
-            url: `http://localhost:8000/api/uploads/${file.filename}`
+        if (file.mimetype.match(/\/(jpg|jpeg|png|gif)$/)) {
+            return {
+                url: `http://localhost:8000/api/uploads/${file.filename}`
+            }
         }
+        throw new BadRequestException('Only files ending in .jpg, .jpeg, .png. .gif are allowed');
     }
 
     @Get('uploads/:path')
